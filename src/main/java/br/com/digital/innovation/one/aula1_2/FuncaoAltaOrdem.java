@@ -1,4 +1,4 @@
-package br.com.digital.innovation.one;
+package br.com.digital.innovation.one.aula1_2;
 
 /*O paradigma funcional fala o que ele vai ter que receber, qual sera
     o comportamento dele

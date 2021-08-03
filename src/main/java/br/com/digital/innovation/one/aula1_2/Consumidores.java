@@ -1,4 +1,4 @@
-package br.com.digital.innovation.one;
+package br.com.digital.innovation.one.aula1_2;
 
 import java.util.function.Consumer;
 
